@@ -2,7 +2,7 @@
 
 ## Introdução 
 
-#### esse projeto foi desenvolvido no curso do ProgramadorBr 
+#### Projeto Jogo da mémoria utilizando imagens de tecnologias e frameworks mais utilizadas do mercado.
 
 ## Tecnologias Utilizadas
 
@@ -11,7 +11,3 @@
 * JavaScript
 
   
-## O que mudei no projeto original?
-
-  * Adicionei animações de scale com CSS
-  * Troquei as cores e adicionei Sombras
