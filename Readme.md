@@ -2,16 +2,16 @@
 
 ## Introdução 
 
-#### esse projeto foi desenvolvido em uma maratona da RocketSeat com o intuito de revisar meus conhecimentos 
+#### esse projeto foi desenvolvido no curso do ProgramadorBr 
 
 ## Tecnologias Utilizadas
 
 * HTML
 * CSS
 * JavaScript
-* Tilt.js
+
   
 ## O que mudei no projeto original?
 
-  * Adicionei Tilt.js
-  * Troquei as cores e adicionei efeitos de Hover 
+  * Adicionei animações de scale com CSS
+  * Troquei as cores e adicionei Sombras
