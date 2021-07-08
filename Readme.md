@@ -11,7 +11,7 @@
 * CSS
 * JavaScript
 
-## TELA DE GAME OVER
+## TELA FIM DE JOGO
 ![Screenshot_1](https://user-images.githubusercontent.com/85195379/124949801-42bcac80-dfe8-11eb-8bb0-f4ad2d771974.png)
 
 
