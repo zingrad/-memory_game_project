@@ -1,7 +1,7 @@
 let game = {
 
     lockMode: false,
-    fistCard: null,
+    firstCard: null,
     secondCard: null,
 
     setCard: function (id) {
